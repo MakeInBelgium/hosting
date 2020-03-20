@@ -1,10 +1,10 @@
 # Hosting oplossing voor verschillende Corona Denktank initiatieven
 
-De meeste discussies gebeuren op [Slack](https://join.coronadenktank.be/). Kom kijken in de `#team-tech-hosting` en `#team-tech-uptime` channels als je wil helpen.
+De meeste discussies gebeuren op [Slack][1]. Kom kijken in de `#team-tech-hosting` en `#team-tech-uptime` channels als je wil helpen.
 
 ## Domeinnamen
 
-Worden geregistreerd door vrijwilligers die een project willen starten.
+Worden geregistreerd door vrijwilligers die een project willen starten. 
 
 ## DNS
 
@@ -41,3 +41,5 @@ Vraag hen de account aan te maken en je krijgt SSH, FTP, MySQL & alle andere acc
 Hou aub rekening met de server load: beperk de plugins & themes, schrijf performante code, ... als jouw site overlast bezorgt zijn andere sites mogelijk ook geïmpacteerd. Voor je live gaat of voor je het in de pers vermeld, neem even contact op met het team om te zien of er caching voor moet komen.
 
 Als je site vermeldt wordt op het VTM journaal of Radio 2 kan je al snel rekenen op 100.000 bezoekers of meer, op héél korte tijdsspanne.
+
+[1]:	https://join.coronadenktank.be/
