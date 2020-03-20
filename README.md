@@ -30,7 +30,7 @@ De statische sites worden met CloudFlare workers online gezet.
 
 ## Caching / DoS bescherming / Redirects
 
-Als je geen nood hebt aan onze hosting (omdat je zelf een VPS draait, eigen resources hebt) maar toch achter de beschermende vleugels van CloudFlare wil zitten, neem dan even contact op met hostingteam. 
+Als je geen nood hebt aan onze hosting (omdat je zelf een VPS draait, eigen resources hebt) maar toch achter de beschermende vleugels van CloudFlare wil zitten, neem dan even contact op met hosting team. 
 
 ## WordPress / Drupal hosting
 
