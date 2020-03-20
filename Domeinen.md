@@ -10,20 +10,20 @@
 	- Functions : website
 	- Location : CF Workers
 	- Alias for : 
-		- maakjemondkapje.nl (@miet)
+		- maakjemondkapje.nl (@Mieke de Bruijn)
 		- maakjemondkap.nl (@david candreva)
-		- maakjemondmasker.nl (@miet)
-		- maakjemondkapje.online (@miet)
-		- maakjemondmasker.online (@miet)
+		- maakjemondmasker.nl (@Mieke de Bruijn)
+		- maakjemondkapje.online (@Mieke de Bruijn)
+		- maakjemondmasker.online (@Mieke de Bruijn)
 		- makefacemasks.com (@iworx)
 		- faitesvotremasquebuccal.be (@iworx)
 
-- maskermatch.be ( to be checked - @crashlab?)
+- wijhelpenmee.be (@iworx)
 	- DNS : Cloudflare
 	- Functions : website
 	- Location : da-2.cloudz.be
 	- Alias for : 
 		- wijzoekenmee.be ( to be checked - @crashlab?)
-		- wijhelpenmee.be (@iworx)
+		- maskermatch.be  ( to be checked - @crashlab?)
 		- wijhebbennodig.be ( to be checked - @crashlab?)
 		- maskersgezocht.be ( to be checked - @crashlab?)
