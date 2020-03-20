@@ -13,6 +13,8 @@ De DNS zit telkens bij Cloudflare. Er is een account op naam van `tech@coronaden
 Volgende personen hebben access, spreek hen aan op Slack als je wil bijdragen:
 
 - Kristof (@iworx)
+- Joren Van Severen
+- Maarten Huijsmans
 - Mattias Geniar (@mattiasgeniar)
 
 ## Static site hosting
