@@ -2,8 +2,10 @@
 
 - coronadenktank.be (@iworx)
 	- DNS : Cloudflare
-	- Functions : website, mail, redirects
-	- Location : da-2.cloudz.be
+	- Functions : website, redirects
+		- Location : da-2.cloudz.be
+	- Functions : mail
+		- Location : dynamic.hosting.coronadenktank.be
 
 - maakjemondmasker.be (@iworx)
 	- DNS : Cloudflare
@@ -21,9 +23,19 @@
 - wijhelpenmee.be (@iworx)
 	- DNS : Cloudflare
 	- Functions : website
-	- Location : da-2.cloudz.be
+	- Location : dynamic.hosting.coronadenktank.be
 	- Alias for : 
 		- wijzoekenmee.be ( to be checked - @crashlab?)
 		- maskermatch.be  ( to be checked - @crashlab?)
 		- wijhebbennodig.be ( to be checked - @crashlab?)
 		- maskersgezocht.be ( to be checked - @crashlab?)
+
+- praatbox.be (Kris Nobels)
+	- DNS : External
+	- Functions : website
+	- Location : scaleway.com (server van Kris Nobels)
+
+- covidfirstresponse.be (Mathy Vanvoorden)
+	- DNS : External
+	- Functions : website
+	- Location : Google Cloud (Mathy Vanvoorden)
