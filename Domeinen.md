@@ -2,9 +2,7 @@
 
 - coronadenktank.be (@iworx)
 	- DNS : Cloudflare
-	- Functions : website, redirects
-		- Location : da-2.cloudz.be
-	- Functions : mail
+	- Functions : mail, website, redirects
 		- Location : dynamic.hosting.coronadenktank.be
 
 - maakjemondmasker.be (@iworx)
