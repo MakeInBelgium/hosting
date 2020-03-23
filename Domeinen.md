@@ -4,6 +4,14 @@
 	- DNS : Cloudflare
 	- Functions : mail, website, redirects
 		- Location : dynamic.hosting.coronadenktank.be
+	- Subdomains :
+		- join : forwarder
+		- twitter : forwarder
+		- instagram : forwarder
+		- facebook : forwarder
+		- praatbox : forwarder
+		- staging : WP staging (Koen Huybrechts)
+		- translations : static site (Pieter Belmans / Ben Van Duppen)
 
 - maakjemondmasker.be (@iworx)
 	- DNS : Cloudflare
